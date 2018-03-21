@@ -13,4 +13,5 @@ This is a JavaScript app to solve an Ethereum riddle.
 1. Node v8+
 2. Yarn v1.5+
 
-Enjoy 😁
+You can find a detailed post on how to develop this app on [Steemit](https://steemit.com/introduceyourself/@jakelin/how-to-earn-one-ether-by-writing-a-simple-program-ethereum-riddle), Enjoy 😁
+
